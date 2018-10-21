@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Projeto_21701916</string>
+
+    <string name="radioButton1_value">Até 1.250</string>
+    <string name="radioButton2_value">Entre 1.250 e 1.750</string>
+    <string name="radioButton3_value">Entre 1.750 e 2.500</string>
+    <string name="radioButton4_value">Mais de 2.500</string>
+
+    <string name="radioButton5_value">Até 120</string>
+    <string name="radioButton6_value">Entre 120 e 180</string>
+    <string name="radioButton7_value">Entre 180 e 250</string>
+    <string name="radioButton8_value">Mais de 250</string>
+
+    <string name="calcular_value">Calcular IUC</string>
+    <string name="textViewResultado_value">Resultado:</string>
+
+
+</resources>
