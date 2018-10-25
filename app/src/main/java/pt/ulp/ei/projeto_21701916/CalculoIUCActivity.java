@@ -34,7 +34,7 @@ public class CalculoIUCActivity extends AppCompatActivity {
 
                 break;
 
-            case R.id.radioButton4: 
+            case R.id.radioButton4:
 
                 break;
 
